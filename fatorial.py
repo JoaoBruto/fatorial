@@ -1,4 +1,5 @@
 n = int(input("Digite um número para calcular seu fatorial."))
+# n = número da escolha do usuário.
 c = n
 f = 1
 print ("Calculando {}! =" .format (n), end= "")
